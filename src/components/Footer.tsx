@@ -7,7 +7,6 @@ interface FooterProps {
   onResumeClick: () => void;
   onManifestoClick: () => void;
 }
-
 export const Footer: React.FC<FooterProps> = ({
   onContactClick,
   onResumeClick,
