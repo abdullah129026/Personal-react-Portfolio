@@ -8,6 +8,7 @@ import profileAvatar from '../assets/images/profile_avatar_1787816690269.jpg';
 import progreeCert1 from '../assets/images/progree_cert_1.png';
 import progreeCert2 from '../assets/images/progree_cert_2.png';
 
+
 export const PERSONAL_INFO = {
   name: 'Abdullah Shaak',
   brandName: 'ABDULLAH',
